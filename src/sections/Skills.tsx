@@ -30,32 +30,30 @@ const skillGroups = [
     ],
   },
   {
-    title: 'DevOps & CI/CD',
+    title: 'DevOps',
     icon: GitBranch,
     skills: [
       'Jenkins',
       'Docker',
+      'Kubernetes',
       'ArgoCD',
       'Maven',
       'SonarQube',
     ],
   },
   {
-    title: 'Infrastructure as Code',
+    title: 'Networking',
     icon: Server,
     skills: [
-      'Terraform',
-      'CloudFormation',
+      ' CCNA (Intermediate)', 'TCP/IP', 'DNS', 'DHCP', 'VLANs', 'Routing', 'Subnetting',
     ],
   },
   {
-    title: 'Containers & Orchestration',
+    title: 'Monitoring & Observability',
     icon: Container,
     skills: [
-      'Docker',
-      'Kubernetes',
-      'Minikube',
-      'Helm',
+      'Prometheus',
+      'Grafana',
     ],
   },
   {

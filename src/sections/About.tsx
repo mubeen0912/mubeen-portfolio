@@ -84,7 +84,7 @@ className="mb-14"
   </h3>
 
   <p className="mt-2 text-blue-400">
-    Cloud & DevOps Focused Engineer
+    Cloud & DevOps Focused Fresher
   </p>
 
   <div className="mt-6 space-y-5 leading-7 text-slate-400">
@@ -95,9 +95,9 @@ className="mb-14"
     </p>
 
     <p>
-      My practical experience is focused on AWS infrastructure, Docker,
-      Kubernetes, Jenkins CI/CD, Terraform, CloudFormation, Linux, and
-      application deployment through hands-on labs, internships, and projects.
+      During my internship at Bdreamz Global Solutions, 
+      I gained practical experience in AWS Cloud and DevOps by working on hands-on projects and real-world scenarios.
+      I worked with AWS services such as EC2, VPC, IAM, S3, EKS, Lambda, and CloudWatch, along with Docker, Kubernetes, Jenkins, Terraform, and CloudFormation. 
     </p>
 
     <p>
