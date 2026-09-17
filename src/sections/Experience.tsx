@@ -8,17 +8,19 @@ import {
 const experiences = [
   {
     number: '01',
-    role: 'AWS Cloud Intern',
-    company: 'Besant Technologies',
+    role: 'Cloud DevOps Intern',
+    company: 'Bdreamz Global Solutions',
     type: 'Internship',
     period: 'April 2026 – Present',
     focus: 'Cloud & DevOps',
     description:
-      'Worked on AWS Cloud and DevOps through hands-on labs and practical projects, gaining experience in building, deploying, and managing cloud infrastructure.',
+      'Gained hands-on experience in AWS Cloud and DevOps, working with cloud infrastructure, automation, containerization, CI/CD, and Linux-based environments.',
     highlights: [
-      'Worked with AWS services including EC2, VPC, IAM, S3, EKS, Lambda, CloudWatch, and CloudFormation.',
-      'Practiced containerization, orchestration, CI/CD, Infrastructure as Code, and Linux-based workflows.',
-      'Built hands-on projects involving infrastructure automation, CI/CD pipelines, containerized deployments, and serverless AWS solutions.',
+      'Worked with AWS cloud services covering compute, networking, storage, IAM, monitoring, and container platforms.',
+      'Gained hands-on experience with Linux, Git, Docker, Kubernetes, Helm, and cloud-based deployment workflows.',
+      'Used Terraform and AWS CloudFormation to provision and manage infrastructure through Infrastructure as Code practices.',
+      'Worked with Jenkins, Maven, SonarQube, and Docker to understand CI/CD automation, build processes, code quality, and deployment workflows.',
+
     ],
     technologies: [
       'AWS',
@@ -27,7 +29,8 @@ const experiences = [
       'Kubernetes',
       'Jenkins',
       'Terraform',
-      'CloudFormation',
+      'Prometheus',
+      'Grafana',
     ],
     icon: Cloud,
   },
